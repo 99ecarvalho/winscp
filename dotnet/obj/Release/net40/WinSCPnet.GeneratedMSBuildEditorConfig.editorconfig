@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = WinSCPnet
+build_property.ProjectDir = /tmp/claude-1000/-dados-PROGRAMS-linscp/e016a285-4a11-4357-8067-24dd03f9f310/scratchpad/winscp-fork/dotnet/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

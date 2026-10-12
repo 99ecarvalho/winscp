@@ -1,0 +1,8 @@
+/tmp/claude-1000/-dados-PROGRAMS-linscp/e016a285-4a11-4357-8067-24dd03f9f310/scratchpad/winscpnet-net40/WinSCPnet.dll.config
+/tmp/claude-1000/-dados-PROGRAMS-linscp/e016a285-4a11-4357-8067-24dd03f9f310/scratchpad/winscpnet-net40/WinSCPnet.dll
+/tmp/claude-1000/-dados-PROGRAMS-linscp/e016a285-4a11-4357-8067-24dd03f9f310/scratchpad/winscpnet-net40/WinSCPnet.pdb
+/tmp/claude-1000/-dados-PROGRAMS-linscp/e016a285-4a11-4357-8067-24dd03f9f310/scratchpad/winscp-fork/dotnet/obj/Release/net40/WinSCPnet.GeneratedMSBuildEditorConfig.editorconfig
+/tmp/claude-1000/-dados-PROGRAMS-linscp/e016a285-4a11-4357-8067-24dd03f9f310/scratchpad/winscp-fork/dotnet/obj/Release/net40/WinSCPnet.csproj.CoreCompileInputs.cache
+/tmp/claude-1000/-dados-PROGRAMS-linscp/e016a285-4a11-4357-8067-24dd03f9f310/scratchpad/winscp-fork/dotnet/obj/Release/net40/WinSCPnet.sourcelink.json
+/tmp/claude-1000/-dados-PROGRAMS-linscp/e016a285-4a11-4357-8067-24dd03f9f310/scratchpad/winscp-fork/dotnet/obj/Release/net40/WinSCPnet.dll
+/tmp/claude-1000/-dados-PROGRAMS-linscp/e016a285-4a11-4357-8067-24dd03f9f310/scratchpad/winscp-fork/dotnet/obj/Release/net40/WinSCPnet.pdb
